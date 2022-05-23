@@ -6,11 +6,11 @@ Inspired by http://www.dabeaz.com/coroutines/Coroutines.pdf
 ### Coroutines
 
 ```bash
-$ python python coro_xml_parser.py xml_data.xml
+$ python coro_xml_parser.py xml_data.xml
 ```
 
 ### Closures
 
 ```bash
-$ python python closure_xml_parser.py xml_data.xml
+$ python closure_xml_parser.py xml_data.xml
 ```
